@@ -1,1 +1,1 @@
-# E-HW-M
+# E-HW-M - External Hardware Monitor
